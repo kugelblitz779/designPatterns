@@ -23,5 +23,7 @@ public class Main {
             totalAmount += cartItem.getPrice();
         }
         System.out.println(totalAmount);
+        iphoneCombo.display();
+        iphone.display();
     }
 }
